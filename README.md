@@ -288,7 +288,7 @@ Mata Kuliah : Machine Learning<br>
    ![image](https://github.com/user-attachments/assets/92e71732-0cab-454f-85dd-0d81836092a2)<br>
    ![image](https://github.com/user-attachments/assets/3de52633-ea36-4c4f-9f28-8879a560568c)<br><br>
 
-   *__Recall or True Positive Rate (TPR) or Sensitivity*__<br>
+   __*Recall or True Positive Rate (TPR) or Sensitivity*__<br>
    ![image](https://github.com/user-attachments/assets/e195ef0a-a75b-4e1c-8ceb-9ffe6299529a)<br>
    ![image](https://github.com/user-attachments/assets/d77a19e2-231e-42f8-87dc-d2d416df6113)<br><br>
 
@@ -365,7 +365,7 @@ Mata Kuliah : Machine Learning<br>
    ### 2.6.	Implementasi Random Forest Classifier Dengan Scikit Learn
    ![image](https://github.com/user-attachments/assets/0ff4b211-e805-4bd8-a6db-a0ef3ef65349)<br><br>
 
-   2.7.	Evaluasi Model  Dengan Classification Report
+   ### 2.7.	Evaluasi Model  Dengan Classification Report
    ![image](https://github.com/user-attachments/assets/263fee5a-c642-499f-bd9e-6990cdebc62e)<br><br>
    <br><br>
 
@@ -518,15 +518,3 @@ Mata Kuliah : Machine Learning<br>
 
    ### 2.7.	Evaluasi Model
    ![image](https://github.com/user-attachments/assets/3b7cc95d-ed9d-4728-8e92-00aee68b404d)
-
-   
-
-
-
-
-
-
-
-
-
-
