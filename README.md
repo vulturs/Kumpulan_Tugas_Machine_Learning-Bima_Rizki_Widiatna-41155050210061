@@ -389,9 +389,9 @@ Mata Kuliah : Machine Learning<br>
 
    ## 1.4.	Pengenalan Likelihood
    __*Likelihood: P(X|y)*__<br>
-   * Asep
+   * Asep<br>
      P(lumpia,bakso|Asep) = (0.1 x 0.8) = 0.08<br>
-   * Joko
+   * Joko<br>
      P(lumpia,bakso|Joko) = (0.3 x 0.2) = 0.06<br><br>
 
    ## 1.5.	Pengenalan *Evidence | Normalizer*
@@ -402,20 +402,20 @@ Mata Kuliah : Machine Learning<br>
    __*Posterior Probability: P(y|X)*__<br>
    Formula:<br>
    ![image](https://github.com/user-attachments/assets/a8e319c3-59aa-4fe2-9df1-ba5f04d0b886)<br>
-   * Asep
+   * Asep<br>
      ![image](https://github.com/user-attachments/assets/f2122e78-44a7-48b7-972c-a2979bf8839f)<br>
-   * Joko
+   * Joko<br>
      ![image](https://github.com/user-attachments/assets/c82d21de-3b94-42da-a99d-7066129850bc)<br><br>
 
    ## 1.7.	Studi kasus dan implementasi *Naive Bayes*
    ![image](https://github.com/user-attachments/assets/05c1dc1b-d39b-4376-8b2a-cfd0641dfa19)<br><br>
    ![image](https://github.com/user-attachments/assets/e6ca4b08-4f99-4059-a3d4-1eaf5e35cd7d)<br><br>
-   * Dokumentasi dari *function load_breast_cancer*
+   * Dokumentasi dari *function load_breast_cancer*<br>
      ![image](https://github.com/user-attachments/assets/70a48b68-22c0-4fc9-a479-d7828e6a5551)<br><br>
      ![image](https://github.com/user-attachments/assets/720818be-dc47-4c58-aa1b-f9788768ff51)<br>Mbr>
-   * Training and Testing Set
+   * Training and Testing Set<br>
      ![image](https://github.com/user-attachments/assets/e6576194-9496-4fd7-911c-88a34b975800)<br><br>
-   * Naïve Bayes dengan Scikit Learn
+   * Naïve Bayes dengan Scikit Learn<br>
      ![image](https://github.com/user-attachments/assets/e0423130-b4a8-421f-9a82-9fa5dba9a4f1)<br><br><br>
 
 
