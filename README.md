@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e4d34c5b-4958-44d2-b15a-578c06349485)**Nama         : Bima Rizki Widiatna**<br>
+**Nama         : Bima Rizki Widiatna**<br>
 **NPM		      : 41155050210061**<br>
 **Prodi/Kelas	: Teknik Informatika/A2**
 ---
@@ -13,6 +13,7 @@
 ## 1.1.	Download dan Instalasi Library python seperti NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-learn.
    ### 1.1.1.	Instalasi Library numpy
    ![image](https://github.com/user-attachments/assets/01dbb0bb-cb83-4a44-b2f1-096613348878)
+   
    ![image](https://github.com/user-attachments/assets/c8d6584c-7db4-4681-9b87-0e77d3a737ac)
    ### 1.1.2.	Instalasi Library scipy
    ![image](https://github.com/user-attachments/assets/10ce9ab2-abb3-4034-b822-3d1f5053c0cb)
