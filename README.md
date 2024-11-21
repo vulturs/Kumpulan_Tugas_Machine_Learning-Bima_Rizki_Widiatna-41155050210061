@@ -1,4 +1,4 @@
-Nama        : Bima Rizki Widiatna<br>
+![image](https://github.com/user-attachments/assets/f4dcf7d7-e2d2-4ef0-adde-7a212c10ffc8)Nama        : Bima Rizki Widiatna<br>
 NPM		   : 41155050210061<br>
 Prodi/Kelas	: Teknik Informatika/A2
 Mata Kuliah : Machine Learning
@@ -198,10 +198,115 @@ Mata Kuliah : Machine Learning
    ![image](https://github.com/user-attachments/assets/9146d461-9446-4170-9deb-4927ab728d8f)<br><br>
    Berikut adalah perhitungan nilai *R^2*<br>
    ![image](https://github.com/user-attachments/assets/cc514993-3251-4504-8a8f-8f77fc9ed292)<br><br>
+   
+## 2.	Multiple Linear Regression & Polynomial Regression
+   ### 2.1.	Persiapan Sample Dataset
+   #### 2.1.1.	Train Dataset
+   ![image](https://github.com/user-attachments/assets/e49378a7-90a8-4652-8e8c-27a829dc8463)<br><br>
+
+   #### 2.1.2.	Testing Dataset
+   ![image](https://github.com/user-attachments/assets/800b9542-8db7-4224-972b-b5e525657053)<br><br>
+
+   ### 2.2.	Preprocessing Dataset
+   ![image](https://github.com/user-attachments/assets/d974753a-f746-452d-b537-1d5b96371998)   
+   ![image](https://github.com/user-attachments/assets/95217ad2-1fcc-4f60-befc-b00444e619c7)
+
+   ### 2.3.	Pengenalan Multiple Linear Regression
+   *Multiple Linear Regression* memungkinkan untuk menggunakan beberapa explanatory variables atau *feature*. Perbedaan antara *Simple Linear Regression* dengan *Multiple Linear Regression* terletak pada *feature* atau *explanatory variables* yang digunakan.
+   <br>
+   __*Formula Multiple Linear Regression :*__<br>
+   ![image](https://github.com/user-attachments/assets/5c14e8c7-b990-4eac-9705-2063ad7f19ad)<br><br>
+   ![image](https://github.com/user-attachments/assets/55d674fb-8286-4d84-abd1-1f240a776032)<br><br>
+
+   ### 2.4.	Pengenalan Polynomial Regression
+   *Polynomial Regression* memodelkan hubungan antara *independent variable (feature)* *X* dan *dependent variable (target) y* sebagai derajat polynomial dalam X.<br>
+   #### 2.4.1.	Preprocessing Dataset
+   ![image](https://github.com/user-attachments/assets/93810e22-742f-4864-9f2e-c6a5e6e6ba14)<br><br>
+
+   ### 2.5.	Quadratic Polynomial Regression
+   ![image](https://github.com/user-attachments/assets/48385c2f-be97-422e-937f-72ee0a209dc4)<br><br>
+   ![image](https://github.com/user-attachments/assets/643df25e-92c9-46fe-8b00-36c70283508d)<br><br>
+   ![image](https://github.com/user-attachments/assets/4f0f4526-c2db-45d4-9b5b-c7c33356dfc0)<br><br>
+
+   ### 2.6.	Linear Regression vs Quadratic Polynomial Regression vs Cubic Polynomial Regression
+   ![image](https://github.com/user-attachments/assets/66bdc7b5-7f2d-4407-917c-bb6f74b2b578)<br>
+   Output dari kode di atas adalah sebagai berikut<br>
+   ![image](https://github.com/user-attachments/assets/dc0e20bc-cd23-4c27-96fe-3c47178179f1)<br><br>
+
+## 3.	Logistic Regression pada Binary Classification Task
+   ### 3.1.	Formula Dasar Pembentuk Logistic Regression | Fungsi Sigmoid
+   __*Formula Simple Linear Regression:*__<br>
+   ![image](https://github.com/user-attachments/assets/bf80db60-11bc-477a-8407-cfc5b28dedb3)<br><br>
+
+   Formula *Multiple Linear Regression*
+   ![image](https://github.com/user-attachments/assets/78ed93f0-6d5d-4c90-a45e-c3c9624484eb)<br><br>
+
+   Formula *Logistic Regression*<br>
+   ![image](https://github.com/user-attachments/assets/fdef8e4b-beec-47eb-934f-6a38e408a1c7)<br><br>
+
+   ![image](https://github.com/user-attachments/assets/9a9a2a60-a687-42ae-9b06-5ad6cf047534)<br><br>
+
+   ### 3.2.	Persiapan Dataset | SMS Spam Collection Dataset
+   ![image](https://github.com/user-attachments/assets/621f68f2-de0a-4f26-bab6-6422bba7c5d6)
+   ![image](https://github.com/user-attachments/assets/1abd18e7-a40d-41f4-95b5-c8dc87db2a1d)<br><br>
+
+   ### 3.3.	Pembagian Training Dan Testing Set
+   ![image](https://github.com/user-attachments/assets/a8a06908-ae9e-4480-9144-aa9e3067b394)
+   ![image](https://github.com/user-attachments/assets/1b3ef0ca-90b5-4694-ad01-902f800633ee)
+
+   ### 3.4.	Feature Extraction Dengan TF-IDF
+   ![image](https://github.com/user-attachments/assets/1df86e38-d6f5-41b0-80b2-7ada432be327)
+   ![image](https://github.com/user-attachments/assets/e0e058ba-ea28-4e0d-938b-49e27ee2c75b)
+
+   ### 3.5.	Binary Classification Dengan Logistic Regression
+   ![image](https://github.com/user-attachments/assets/774e6cd2-48c6-4ef5-a1c2-368d22813da3)
+
+   ### 3.6.	Evaluation Metrics Pada Binary Classification Task
+   Terminologi atau istilah dasar:
+   * *True Positive (TP)*
+   * *True Negative (TN)*
+   * *False Positive (FP)*
+   * *False Negative(FN)*<br><br>
+
+   #### 3.6.1.	Pengenalan Confusion Matrix
+   ![image](https://github.com/user-attachments/assets/5536c7e6-41f7-40b3-92c6-c7105060cb81)
+   ![image](https://github.com/user-attachments/assets/99163b8b-892e-40b6-897f-fa11ac7c96c1)
+
+   #### 3.6.2.	Pengenalan Accuracy Score
+   *Accuracy* mengukur porsi dari hasil prediksi yang tepat.<br>
+   ![image](https://github.com/user-attachments/assets/398d9cbf-7de1-456b-958a-a362c4a17c05)<br>
+   ![image](https://github.com/user-attachments/assets/4b744c30-f8ca-4d78-8c99-fe3cd7827417)<br>
+   Nilai pada gambar diatas termasuk akurasi tingkat tinggi, karena jika diubah menjadi persentasi menjadi 96,48 %.<br><br>
+   
+   #### 3.6.3.	Pengenalan Precision Dan Recall
+   Selain menggunakan *accuracy*, performa dari suatu *classifier* umumnya juga diukur berdasarkan nilai *Precission* dan *Recall.*
+   <br><br>
+   __*Precission and Positive Predictive Value (PPV)*__<br>
+   ![image](https://github.com/user-attachments/assets/92e71732-0cab-454f-85dd-0d81836092a2)<br>
+   ![image](https://github.com/user-attachments/assets/3de52633-ea36-4c4f-9f28-8879a560568c)<br><br>
+
+   *__Recall or True Positive Rate (TPR) or Sensitivity*__<br>
+   ![image](https://github.com/user-attachments/assets/e195ef0a-a75b-4e1c-8ceb-9ffe6299529a)<br>
+   ![image](https://github.com/user-attachments/assets/d77a19e2-231e-42f8-87dc-d2d416df6113)<br><br>
+
+   #### 3.6.4.	Pengenalan F1 Score | F1 Measure
+   ![image](https://github.com/user-attachments/assets/2a866c39-3fff-48f4-9153-dd7ec2cb609c)<br><br>
+
+   #### 3.6.5.	Pengenalan ROC | Receiver Operating Characteristic
+   ![image](https://github.com/user-attachments/assets/14e2e955-4fa5-40c9-a30a-e9b06797fcb2)<br><br><br>
+
 
    
 
 
 
-   
+
+
+
+
+
+
+
+
+
 
