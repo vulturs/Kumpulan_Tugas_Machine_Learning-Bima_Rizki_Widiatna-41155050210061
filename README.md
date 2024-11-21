@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/798881ff-66a0-4ffb-9fc0-d3aac5b13493)**Nama         : Bima Rizki Widiatna**<br>
-**NPM		      : 41155050210061**<br>
-**Prodi/Kelas	: Teknik Informatika/A2**
+Nama         : Bima Rizki Widiatna<br>
+NPM		      : 41155050210061<br>
+Prodi/Kelas	: Teknik Informatika/A2
 ---
 # TUGAS PERTEMUAN 1
 
@@ -16,16 +16,16 @@
    ![image](https://github.com/user-attachments/assets/c8d6584c-7db4-4681-9b87-0e77d3a737ac)<br><br>
    ### 1.1.2.	Instalasi *Library scipy*
    ![image](https://github.com/user-attachments/assets/10ce9ab2-abb3-4034-b822-3d1f5053c0cb)<br><br>
-   ![image](https://github.com/user-attachments/assets/8d099e94-b08b-49fa-8934-1446fe0e3244)
+   ![image](https://github.com/user-attachments/assets/8d099e94-b08b-49fa-8934-1446fe0e3244)<br><br>
    ### 1.1.3.	Instalasi *Library pandas*
    ![image](https://github.com/user-attachments/assets/aa91a056-5bc9-4344-9e20-9398f297a0c7)<br><br>
-   ![image](https://github.com/user-attachments/assets/aef8dd28-4c2f-429a-8642-649f57a14f4f)
+   ![image](https://github.com/user-attachments/assets/aef8dd28-4c2f-429a-8642-649f57a14f4f)<br><br>
    ### 1.1.4.	Instalasi *Library matplotlib*
    ![image](https://github.com/user-attachments/assets/ff6b3e58-4d4b-4196-a0ed-383addf660fc)<br><br>
-   ![image](https://github.com/user-attachments/assets/4c67c968-690a-4290-9538-d9af05b95fca)
+   ![image](https://github.com/user-attachments/assets/4c67c968-690a-4290-9538-d9af05b95fca)<br><br>
    1.1.5.	Instalasi *Library seaborn*
    ![image](https://github.com/user-attachments/assets/51db222f-bf5e-434a-b5f6-6c4d43439f33)<br><br>
-   ![image](https://github.com/user-attachments/assets/9e8a4802-4d87-4789-a3f0-615395dc7f74)
+   ![image](https://github.com/user-attachments/assets/9e8a4802-4d87-4789-a3f0-615395dc7f74)<br><br>
    ### 1.1.6.	Instalasi *Library scikit-learn*
    ![image](https://github.com/user-attachments/assets/0513ee27-8a1c-4295-8d1d-744d0a30134f)<br><br>
    ![image](https://github.com/user-attachments/assets/663bd1a7-6c16-4830-8f14-3dad01664f15)<br><br>
@@ -99,6 +99,41 @@
    ## 6.5.	Deploy Model Machine Learning | Dumping dan Loading Model Machine Learning
    ![image](https://github.com/user-attachments/assets/8ebbb3db-a645-4403-99da-165d836af71b)<br><br>
    ![image](https://github.com/user-attachments/assets/e0b747db-199e-467a-b615-fe2b8ed81a8f)<br><br>
+   ![image](https://github.com/user-attachments/assets/87b3d519-1edd-4cc1-860b-6c802a541c21)<br><br>
+
+# 7.	Praktek Data Preprocessing dengan Scikit-Learn
+   ## 7.1.	Persiapan Sample Dataset
+   ![image](https://github.com/user-attachments/assets/1edd7258-4627-4486-abd7-a99e37ed9972)<br><br>
+   ![image](https://github.com/user-attachments/assets/dd0afc02-e5b3-4fce-a8ba-e4f6fca25744)<br><br>
+
+   ## 7.2.	Teknik Data Preprocessing 1: Binarisation
+   ![image](https://github.com/user-attachments/assets/ab74eea0-5d01-4a02-876b-c420b35a155f)<br><br>
+   ![image](https://github.com/user-attachments/assets/435f5bea-2495-4001-8b54-b2b7a62772de)<br><br>
+
+   ## 7.3.	Teknik Data Preprocessing 2: Scaling
+   ![image](https://github.com/user-attachments/assets/8d7fb573-4889-4fa3-8a03-8e49aa414e68)<br><br>
+   ![image](https://github.com/user-attachments/assets/143fc3ca-a826-4af8-8f47-cfde323629f7)<br><br>
+   ![image](https://github.com/user-attachments/assets/63ee2aa3-719e-48b6-988f-2cf8d5d7f972)<br><br>
+
+   ## 7.4.	Teknik Data Preprocessing 3: Normalisation
+   ### 7.4.1.	Normalisasi L1
+   ![image](https://github.com/user-attachments/assets/4ff2b9b1-cd2f-453b-a814-c4cddc9269b5)<br><br>
+   ![image](https://github.com/user-attachments/assets/3aee4ea5-05e6-45b8-ba98-510e046d8f7e)<br><br>
+   ### 7.4.2.	Normalisasi L2
+   ![image](https://github.com/user-attachments/assets/6fe92fc8-1f73-42d6-bd65-ca11297aa439)<br><br>
+   ![image](https://github.com/user-attachments/assets/df0e81b8-6dd1-4950-be45-c5e9eb1e8b1b)<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
