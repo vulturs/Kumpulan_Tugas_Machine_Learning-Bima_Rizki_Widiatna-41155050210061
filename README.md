@@ -1,5 +1,5 @@
-**Nama        : Bima Rizki Widiatna**
-**NPM		      : 41155050210061**
+**Nama        : Bima Rizki Widiatna**<br>
+**NPM		      : 41155050210061**<br>
 **Prodi/Kelas	: Teknik Informatika/A2**
 ---
 # TUGAS PERTEMUAN 1
