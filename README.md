@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/761f2e59-c262-4aaa-8d62-d38af5e0cc3e)![image](https://github.com/user-attachments/assets/f4dcf7d7-e2d2-4ef0-adde-7a212c10ffc8)Nama        : Bima Rizki Widiatna<br>
+Nama        : Bima Rizki Widiatna<br>
 NPM		   : 41155050210061<br>
 Prodi/Kelas	: Teknik Informatika/A2
 Mata Kuliah : Machine Learning
