@@ -1,7 +1,7 @@
 Nama        : Bima Rizki Widiatna<br>
 NPM		   : 41155050210061<br>
 Prodi/Kelas	: Teknik Informatika/A2<br>
-Mata Kuliah : Machine Learning
+Mata Kuliah : Machine Learning<br>
 ---
 # TUGAS PERTEMUAN 1
 
@@ -299,6 +299,7 @@ Mata Kuliah : Machine Learning
 
 
 
+---
 # TUGAS PERTEMUAN 3
 
 ## 1.	Decision Tree Classification
@@ -368,6 +369,7 @@ Mata Kuliah : Machine Learning
 
 
 
+---
 # TUGAS PERTEMUAN 4
 
 
