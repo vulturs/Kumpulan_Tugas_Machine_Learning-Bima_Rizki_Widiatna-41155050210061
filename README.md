@@ -372,20 +372,27 @@ Mata Kuliah : Machine Learning<br>
 ---
 # TUGAS PERTEMUAN 4
 
+## 1.	Naive Bayes Classification
+   ### 1.1.	Pengenalan Bayes Theorem | Teori Bayes | Conditional Probability
+   *Bayes’ theorem* menawarkan suatu formula untuk menghitung nilai probability dari suatu event dengan memanfaatkan pengetahuan sebelumnya dari kondisi terkait; atau sering kali dikenal dengan istilah *conditional probability*.<br>
+   ![image](https://github.com/user-attachments/assets/cdac7ccd-fc4f-4438-9d65-501a633d888f)<br><br>
 
+   ## 1.2.	Pengenalan Naive Bayes Classification
+   Studi Kasus 1<br>
+   ![image](https://github.com/user-attachments/assets/783f0140-8e86-4189-a919-b14bb4b19641)<br>
+   __Misi:__ Lakukan prediksi siapa pelanggan yang melakukan pemesanan dengan diketahui pesanannya adalah __lumpia__ dan __bakso.__<br>
 
+   ## 1.3.	Pengenalan Prior Probability
+   __*Prior Probability: P(y)*__<br>
+   *P(Asep) = 0.5*<br>
+   *P(Joko) = 0.5*<br><br>
 
-
-
-
-
-
-
-
-
+   ## 1.4.	Pengenalan Likelihood
+   __*Likelihood: P(X|y)*__<br>
+   * Asep
+     P(lumpia,bakso|Asep) = (0.1 x 0.8)<br>
+			                  = 0.08
+   * Joko
    
-
-
-
 
    
