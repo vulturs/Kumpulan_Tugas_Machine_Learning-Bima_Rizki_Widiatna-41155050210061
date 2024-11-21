@@ -1,7 +1,8 @@
 Nama        : Bima Rizki Widiatna<br>
 NPM		   : 41155050210061<br>
 Prodi/Kelas	: Teknik Informatika/A2<br>
-Mata Kuliah : Machine Learning<br>
+Mata Kuliah : Machine Learning<br><br>
+> Kumpulan Tugas Pertemuan 1 s/d Pertemuan 5
 ---
 # TUGAS PERTEMUAN 1
 
@@ -295,8 +296,8 @@ Mata Kuliah : Machine Learning<br>
    ![image](https://github.com/user-attachments/assets/2a866c39-3fff-48f4-9153-dd7ec2cb609c)<br><br>
 
    #### 3.6.5.	Pengenalan ROC | Receiver Operating Characteristic
-   ![image](https://github.com/user-attachments/assets/14e2e955-4fa5-40c9-a30a-e9b06797fcb2)<br><br><br>
-
+   ![image](https://github.com/user-attachments/assets/14e2e955-4fa5-40c9-a30a-e9b06797fcb2)<br><br>
+   <br><br>
 
 
 ---
@@ -365,7 +366,8 @@ Mata Kuliah : Machine Learning<br>
    ![image](https://github.com/user-attachments/assets/0ff4b211-e805-4bd8-a6db-a0ef3ef65349)<br><br>
 
    2.7.	Evaluasi Model  Dengan Classification Report
-   ![image](https://github.com/user-attachments/assets/263fee5a-c642-499f-bd9e-6990cdebc62e)<br><br><br>
+   ![image](https://github.com/user-attachments/assets/263fee5a-c642-499f-bd9e-6990cdebc62e)<br><br>
+   <br><br>
 
 
 
@@ -410,13 +412,121 @@ Mata Kuliah : Machine Learning<br>
    ## 1.7.	Studi kasus dan implementasi *Naive Bayes*
    ![image](https://github.com/user-attachments/assets/05c1dc1b-d39b-4376-8b2a-cfd0641dfa19)<br><br>
    ![image](https://github.com/user-attachments/assets/e6ca4b08-4f99-4059-a3d4-1eaf5e35cd7d)<br><br>
-   * Dokumentasi dari *function load_breast_cancer*<br>
+   * Dokumentasi dari *function `load_breast_cancer`*<br>
      ![image](https://github.com/user-attachments/assets/70a48b68-22c0-4fc9-a479-d7828e6a5551)<br><br>
      ![image](https://github.com/user-attachments/assets/720818be-dc47-4c58-aa1b-f9788768ff51)<br><br>
    * Training and Testing Set<br>
      ![image](https://github.com/user-attachments/assets/e6576194-9496-4fd7-911c-88a34b975800)<br><br>
-   * Naïve Bayes dengan Scikit Learn<br>
-     ![image](https://github.com/user-attachments/assets/e0423130-b4a8-421f-9a82-9fa5dba9a4f1)<br><br><br>
+   * *Naïve Bayes dengan Scikit Learn*<br>
+     ![image](https://github.com/user-attachments/assets/e0423130-b4a8-421f-9a82-9fa5dba9a4f1)<br><br>
+   
+   <br><br>
+
+
+
+---
+# TUGAS PERTEMUAN 5
+
+## 1.	Classification dengan K-Nearest Neighbours
+   *KKN* adalah model *machine learning* yang dapat digunakan untuk melakukan prediksi berdasarkan kedekatan karakteristik dengan sejumlah tetangga terdekat. Prediksi yang dilakukan dapat diterapkan baik pada *classification* maupun *regression task.*<br><br>
+
+   ### 1.1.	Persiapan Sample Dataset
+   ![image](https://github.com/user-attachments/assets/a458b806-18f6-4401-a2d7-b2fb636f16aa)<br><br>
+
+   ### 1.2.	Visualisasi Dataset
+   ![image](https://github.com/user-attachments/assets/c84d0613-c7de-4303-bf66-11503ae5a2f4)<br><br>
+
+   ### 1.3.	Pengantar Classification Dengan K-Nearest Neighbours | KNN
+   *K-Nearest Neighbors* merupakan algoritma yang digunakan untuk mengidentifikasi adanya persamaan antara data baru dan lama.<br><br>
+
+   ### 1.4.	Preprocessing Dataset Dengan Label Binarizer
+   ![image](https://github.com/user-attachments/assets/242d3dfd-d7d9-473d-b593-b5bc7bd8a244)<br><br>
+   ![image](https://github.com/user-attachments/assets/0bdf3e9f-28c2-4b5c-a4c9-3e06f6a9abb3)
+   ![image](https://github.com/user-attachments/assets/9c2b6d0c-0d94-4256-8641-38946022ccca)<br><br>
+
+   ### 1.5.	Training KNN Classification Model
+   ![image](https://github.com/user-attachments/assets/9d7bfa7d-0978-4198-820f-aa35718ea262)<br><br>
+
+   ### 1.6.	Prediksi Dengan KNN Classification Model
+   ![image](https://github.com/user-attachments/assets/43ec9653-7afc-482b-b5d6-717174103245)<br><br>
+
+   ### 1.7.	Visualisasi Nearest Neighbours
+   ![image](https://github.com/user-attachments/assets/73606bdf-1833-4bd3-aa57-2b1ac1ab27eb)<br><br>
+
+   ### 1.8.	Kalkulasi Jarak Dengan Euclidean Distance
+   ![image](https://github.com/user-attachments/assets/10a316b5-a30b-45ea-bbe4-9c2235e8b1c7)<br><br>
+   ![image](https://github.com/user-attachments/assets/9f944c0a-1629-4bac-854c-bfd73589984a)<br><br>
+   ![image](https://github.com/user-attachments/assets/673b79ac-bea6-4583-a3a9-97ace215ef27)<br><br>
+
+   ### 1.9.	Evaluasi KNN Classification Model | Persiapan Testing Set
+   ![image](https://github.com/user-attachments/assets/4953731a-9fb5-4d77-a127-1b11479bd8a8)<br><br>
+   ![image](https://github.com/user-attachments/assets/48117b9b-6d4e-4941-a638-d01635f65135)<br><br>
+
+   ### 1.10.	Evaluasi Model Dengan Accuracy Score
+   *Accuracy* adalah proporsi dari *instance* pada training test yang di klasifikasikan secara benar atau yang berhasil di prediksi dengan tepat.<br>
+   ![image](https://github.com/user-attachments/assets/0439656e-641b-454c-9b34-e0a5f8938be5)<br><br>
+   ![image](https://github.com/user-attachments/assets/1c79bb3a-4892-493b-b3c7-0dc886e7f350)<br><br>
+
+   ### 1.11.	Evaluasi Model Dengan Precision Score
+   *Precission* merupakan proporsi dari testing set yang di prediksi positif oleh model, yang memang benar-benar positif (truly positive)<br>
+   ![image](https://github.com/user-attachments/assets/a18a8d22-5069-4e93-847e-cd956cbf2da2)<br><br>
+   ![image](https://github.com/user-attachments/assets/092fcc86-7d38-4fb4-804c-452bda9dc8eb)<br><br>
+   
+   ### 1.12.	Evaluasi Model Dengan Recall Score
+   *Recall* adalah proporsi dari data pada testing set yang benar benar positif *(truly positive)* yang di prediksi sebagai positif oleh model.<br>
+   ![image](https://github.com/user-attachments/assets/2cedbdee-dc63-47ce-abbe-2d7e314dd077)<br><br>
+   ![image](https://github.com/user-attachments/assets/23f7204c-be11-43ef-a4ce-f03e1ed5c4f9)<br><br>
+
+   ### 1.13.	Evaluasi Model Dengan F1 Score
+   *F1 Score* merupakan nilai rata-rata *harmonic* dari *precission* dan *recall.*<br>
+   ![image](https://github.com/user-attachments/assets/fed62a42-57ae-4698-9ba5-bd22ecefaa97)<br><br>
+   ![image](https://github.com/user-attachments/assets/836e9f7b-58ab-4214-a220-ef805f6f27ea)<br><br>
+
+   ### 1.14.	Evaluasi Model Dengan Classification Report
+   ![image](https://github.com/user-attachments/assets/4a452238-f4a1-4874-89b1-dcafd0e219a6)<br><br>
+
+   ### 1.15.	Evaluasi Model Dengan Mathews Correlation Coefficient (MCC)
+   *MCC* merupakan alternatif untuk *F1 Score* untuk keperluan pengukuran performa dari *Binary Classifier.* Nilai tertinggi nya 1. Jika prediksinya dilakukan secara acak maka nilai score nya adalah 0, atau jika model *classifier*-nya benar-benar asal akan bernilai -1
+   <br>
+   ![image](https://github.com/user-attachments/assets/e3c1fb81-12f9-494e-9928-310c74df675b)<br><br>
+   ![image](https://github.com/user-attachments/assets/efa48013-b438-447e-8f20-50b4aa4f95b9)<br><br>
+
+
+## 2.	Support Vector Machine Classification
+   ### 2.1.	Pengenalan Decision Boundary & Hyperplane
+   ![image](https://github.com/user-attachments/assets/e2cb13f9-4f08-4da3-9694-bd8c7c974738)<br><br>
+
+   ### 2.2.	Pengenalan Support Vector & Maximum Margin
+   ![image](https://github.com/user-attachments/assets/4d455516-0a74-493f-a625-503b78bcc8ce)<br><br>
+
+   ### 2.3.	Pengenalan Kondisi Linearly Inseparable dan Kernel Tricks
+   ![image](https://github.com/user-attachments/assets/d99f3962-cff5-43cf-9845-349f8374150c)<br><br>
+
+   ### 2.4.	Pengenalan MNIST Handwritten Digits Dataset
+   ![image](https://github.com/user-attachments/assets/717085ab-3168-4790-9db9-f5199b815eb2)<br><br>
+   ![image](https://github.com/user-attachments/assets/ebc0bff8-7363-4b2e-a038-123e459b1e77)<br><br>
+   ![image](https://github.com/user-attachments/assets/8cea2b0d-45ad-4cef-b3fa-7fa96a4fd9ac)
+   ![image](https://github.com/user-attachments/assets/183f9950-6d2d-4d73-8795-2eda1e0f846e)<br><br>
+
+   ### 2.5.	Klasifikasi dengan Support Vector Classifier | SVC
+   ![image](https://github.com/user-attachments/assets/a17bd228-874a-4f05-985b-cfbcbac2ca59)<br><br>
+   ![image](https://github.com/user-attachments/assets/aae8be08-1e1a-47cc-888e-67c39050e4f5)<br><br>
+
+   ### 2.6.	Hyperparameter Tuning dengan Grid Search
+   ![image](https://github.com/user-attachments/assets/1a71c329-4d0d-4393-8d98-14a983ed37b5)<br><br>
+   ![image](https://github.com/user-attachments/assets/750e71fe-5365-4be4-a9a0-41461911cf99)<br><br>
+
+   ### 2.7.	Evaluasi Model
+   ![image](https://github.com/user-attachments/assets/3b7cc95d-ed9d-4728-8e92-00aee68b404d)
+
+   
+
+
+
+
+
+
+
 
 
 
