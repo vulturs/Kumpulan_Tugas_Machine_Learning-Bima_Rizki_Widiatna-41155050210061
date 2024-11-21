@@ -149,10 +149,10 @@ Mata Kuliah : Machine Learning
    *y = response variable (target)*<br>
    *x = explanatory variable (feature)*<br>
    *α = intercept*<br>
-   *β = slope*<br>
+   *β = slope*<br><br>
    *Intercept* merupakan titik pada sumbu y, dimana garis linear yang terbentuk menabrak suatu titik pada sumbu y. Nilai *Slope* akan berperngaruh pada tingkat kemiringan garis linear yang terbentuk, dimana nilai *slope* 0 akan menghasilkan garis horizontal.<br>
    ![image](https://github.com/user-attachments/assets/c67d911b-3903-471c-a7d9-e06ffdd2e68a)<br>
-   Gambar di atas adalah cara untuk menampilkan nilai *intercept* dan *slope.*<br>
+   Gambar di atas adalah cara untuk menampilkan nilai *intercept* dan *slope.*<br><br>
 
    ### 1.6.	Kalkulasi Nilai *Slope*
    Formula mencari nilai *slope*<br>
@@ -195,7 +195,7 @@ Mata Kuliah : Machine Learning
    ![image](https://github.com/user-attachments/assets/fe40e0cf-0fca-4e1d-9991-706eddc2bdea)<br>
    ![image](https://github.com/user-attachments/assets/c052ef98-6259-4494-9fea-fc27304d09fa)<br>
    ![image](https://github.com/user-attachments/assets/44446cdf-b7e4-4805-a0c9-6789d04df259)<br>
-   ![image](https://github.com/user-attachments/assets/9146d461-9446-4170-9deb-4927ab728d8f)<br>
+   ![image](https://github.com/user-attachments/assets/9146d461-9446-4170-9deb-4927ab728d8f)<br><br>
    Berikut adalah perhitungan nilai *R^2*<br>
    ![image](https://github.com/user-attachments/assets/cc514993-3251-4504-8a8f-8f77fc9ed292)<br><br>
 
