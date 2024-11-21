@@ -304,7 +304,7 @@ Mata Kuliah : Machine Learning<br>
 
 ## 1.	Decision Tree Classification
    ### 1.1.	Pengenalan Komponen Decision Tree: Root, Node, Leaf
-   ![image](https://github.com/user-attachments/assets/6e0418b4-bc52-425f-b4ae-b77740c3e671)
+   ![image](https://github.com/user-attachments/assets/6e0418b4-bc52-425f-b4ae-b77740c3e671)<br><br>
 
    ### 1.2.	Pengenalan Gini Impurity
    ![image](https://github.com/user-attachments/assets/42affe10-7257-49b6-82e4-b62e1d66d1c6)<br>
@@ -317,37 +317,37 @@ Mata Kuliah : Machine Learning<br>
    ![image](https://github.com/user-attachments/assets/e55b0a01-73cf-438b-a1b9-104a4e0760df)<br><br>
 
    __Nilai rata-rata Gini *Impurity*__<br>
-   ![image](https://github.com/user-attachments/assets/ac2e46b0-dd43-471e-83b9-8705633f3be6)
+   ![image](https://github.com/user-attachments/assets/ac2e46b0-dd43-471e-83b9-8705633f3be6)<br><br>
 
    ### 1.3.	Pengenalan Information Gain
-   ![image](https://github.com/user-attachments/assets/ed5d9f80-13d2-47ea-a838-454a5b5b6920)
+   ![image](https://github.com/user-attachments/assets/ed5d9f80-13d2-47ea-a838-454a5b5b6920)<br><br>
 
    ### 1.4.	Membangun Decision Tree
-   ![image](https://github.com/user-attachments/assets/97d75558-518d-4a25-bbf3-918a2547ecf2)
+   ![image](https://github.com/user-attachments/assets/97d75558-518d-4a25-bbf3-918a2547ecf2)<br>
    Pada dataset di atas kolom *Color* dan Diameter adalah *feature*, dan kolom Label adalah *target*.<br>
    Berikut pencarian nilai *Gini Impurity* dari sekumpulan data sebelum dilakukan *splitting*:<br>
-   ![image](https://github.com/user-attachments/assets/c550b266-382f-42b6-8f9e-56520d6a4bd9)
+   ![image](https://github.com/user-attachments/assets/c550b266-382f-42b6-8f9e-56520d6a4bd9)<br><br>
 
    ### 1.5.	Persiapan Dataset: Iris Dataset
-   ![image](https://github.com/user-attachments/assets/c4465153-20bb-4ebd-aa80-0125f733e41b)
-   ![image](https://github.com/user-attachments/assets/4ed6405f-86fc-4837-9098-11369afdd5c4)
+   ![image](https://github.com/user-attachments/assets/c4465153-20bb-4ebd-aa80-0125f733e41b)<br><br>
+   ![image](https://github.com/user-attachments/assets/4ed6405f-86fc-4837-9098-11369afdd5c4)<br><br>
 
    ### 1.6.	Training Model Decision Tree Classifier
-   ![image](https://github.com/user-attachments/assets/0fc7206c-d8dc-49ed-97d5-76c92156459c)
+   ![image](https://github.com/user-attachments/assets/0fc7206c-d8dc-49ed-97d5-76c92156459c)<br><br>
 
    ### 1.7.	Visualisasi Model Decision Tree
-   ![image](https://github.com/user-attachments/assets/9be268ed-a074-4d47-8a9d-b6102df23029)
+   ![image](https://github.com/user-attachments/assets/9be268ed-a074-4d47-8a9d-b6102df23029)<br><br>
 
    ### 1.8.	Evaluasi Model Decision Tree
-   ![image](https://github.com/user-attachments/assets/0e0de60f-a5a7-4850-b833-280a94819377)
+   ![image](https://github.com/user-attachments/assets/0e0de60f-a5a7-4850-b833-280a94819377)<br><br>
 
 ## 2.	Random Forest Classification
    ### 2.1.	Proses Training Model Machine Learning Secara Umum
    __*General Workflow ML Model Training*__<br>
-   ![image](https://github.com/user-attachments/assets/966e385e-ff17-4610-8c40-e5a6a6ea1bd3)
+   ![image](https://github.com/user-attachments/assets/966e385e-ff17-4610-8c40-e5a6a6ea1bd3)<br><br>
 
    ### 2.2.	Pengenalan Ensemble Learning
-   ![image](https://github.com/user-attachments/assets/5f8cf785-8da8-48af-8087-d44b6bcf8741)
+   ![image](https://github.com/user-attachments/assets/5f8cf785-8da8-48af-8087-d44b6bcf8741)<br><br>
 
    ### 2.3.	Pengenalan *Bootstrap Aggregating | Bagging*
    ![image](https://github.com/user-attachments/assets/a0ac3697-3a0f-4839-a9bf-ddc05508ce37)<br>
@@ -380,7 +380,7 @@ Mata Kuliah : Machine Learning<br>
    ## 1.2.	Pengenalan Naive Bayes Classification
    Studi Kasus 1<br>
    ![image](https://github.com/user-attachments/assets/783f0140-8e86-4189-a919-b14bb4b19641)<br>
-   __Misi:__ Lakukan prediksi siapa pelanggan yang melakukan pemesanan dengan diketahui pesanannya adalah __lumpia__ dan __bakso.__<br>
+   __Misi:__ Lakukan prediksi siapa pelanggan yang melakukan pemesanan dengan diketahui pesanannya adalah __lumpia__ dan __bakso.__<br><br>
 
    ## 1.3.	Pengenalan Prior Probability
    __*Prior Probability: P(y)*__<br>
@@ -390,9 +390,33 @@ Mata Kuliah : Machine Learning<br>
    ## 1.4.	Pengenalan Likelihood
    __*Likelihood: P(X|y)*__<br>
    * Asep
-     P(lumpia,bakso|Asep) = (0.1 x 0.8)<br>
-			                  = 0.08
+     P(lumpia,bakso|Asep) = (0.1 x 0.8) = 0.08<br>
    * Joko
-   
+     P(lumpia,bakso|Joko) = (0.3 x 0.2) = 0.06<br><br>
 
-   
+   ## 1.5.	Pengenalan *Evidence | Normalizer*
+   __*Evidence atau Normalizer: P(X)*__<br>
+   ![image](https://github.com/user-attachments/assets/b96194f6-d504-4b2e-9a35-2f66bb733637)<br><br>
+
+   ## 1.6.	Pengenalan Posterior Probability
+   __*Posterior Probability: P(y|X)*__<br>
+   Formula:<br>
+   ![image](https://github.com/user-attachments/assets/a8e319c3-59aa-4fe2-9df1-ba5f04d0b886)<br>
+   * Asep
+     ![image](https://github.com/user-attachments/assets/f2122e78-44a7-48b7-972c-a2979bf8839f)<br>
+   * Joko
+     ![image](https://github.com/user-attachments/assets/c82d21de-3b94-42da-a99d-7066129850bc)<br><br>
+
+   ## 1.7.	Studi kasus dan implementasi *Naive Bayes*
+   ![image](https://github.com/user-attachments/assets/05c1dc1b-d39b-4376-8b2a-cfd0641dfa19)<br><br>
+   ![image](https://github.com/user-attachments/assets/e6ca4b08-4f99-4059-a3d4-1eaf5e35cd7d)<br><br>
+   * Dokumentasi dari *function load_breast_cancer*
+     ![image](https://github.com/user-attachments/assets/70a48b68-22c0-4fc9-a479-d7828e6a5551)<br><br>
+     ![image](https://github.com/user-attachments/assets/720818be-dc47-4c58-aa1b-f9788768ff51)<br>Mbr>
+   * Training and Testing Set
+     ![image](https://github.com/user-attachments/assets/e6576194-9496-4fd7-911c-88a34b975800)<br><br>
+   * Naïve Bayes dengan Scikit Learn
+     ![image](https://github.com/user-attachments/assets/e0423130-b4a8-421f-9a82-9fa5dba9a4f1)<br><br><br>
+
+
+
