@@ -412,7 +412,7 @@ Mata Kuliah : Machine Learning<br>
    ![image](https://github.com/user-attachments/assets/e6ca4b08-4f99-4059-a3d4-1eaf5e35cd7d)<br><br>
    * Dokumentasi dari *function load_breast_cancer*<br>
      ![image](https://github.com/user-attachments/assets/70a48b68-22c0-4fc9-a479-d7828e6a5551)<br><br>
-     ![image](https://github.com/user-attachments/assets/720818be-dc47-4c58-aa1b-f9788768ff51)<br>Mbr>
+     ![image](https://github.com/user-attachments/assets/720818be-dc47-4c58-aa1b-f9788768ff51)<br><br>
    * Training and Testing Set<br>
      ![image](https://github.com/user-attachments/assets/e6576194-9496-4fd7-911c-88a34b975800)<br><br>
    * Naïve Bayes dengan Scikit Learn<br>
