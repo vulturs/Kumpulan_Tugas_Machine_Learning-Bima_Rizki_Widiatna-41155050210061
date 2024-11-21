@@ -123,6 +123,49 @@ Prodi/Kelas	: Teknik Informatika/A2
    ![image](https://github.com/user-attachments/assets/6fe92fc8-1f73-42d6-bd65-ca11297aa439)<br><br>
    ![image](https://github.com/user-attachments/assets/df0e81b8-6dd1-4950-be45-c5e9eb1e8b1b)<br><br>
 
+<br><br><br>
+
+# TUGAS PERTEMUAN 2
+
+## 1.	Simple Linear Regression dengan Scikit-Learn
+   ### 1.1.	Sample Dataset
+   ![image](https://github.com/user-attachments/assets/312ce101-8417-47b5-8161-cdcee608b005)
+
+   ### 1.2.	Visualisasi Dataset
+   ![image](https://github.com/user-attachments/assets/90b2741a-eec4-4e5a-8bce-d9155a94d56f)
+
+   ### 1.3.	Transformasi Dataset
+   ![image](https://github.com/user-attachments/assets/fec06c81-f062-4e04-91e8-f3aec6a3941c)
+   ![image](https://github.com/user-attachments/assets/d02f2902-6c6a-458e-bb43-cec8e325876b)
+
+   ### 1.4.	Training Simple Linear Regression Model
+   ![image](https://github.com/user-attachments/assets/f0d3d3aa-2daf-409d-8dfc-d617686012fc)
+
+   ### 1.5.	Visualisasi Simple Linear Regression Model
+   ![image](https://github.com/user-attachments/assets/22b2cfed-8087-4d8d-be3b-3cebf1618a82)
+   Formula Linear Regression :
+   *y=α+ βx*
+   *y = response variable (target)*
+   *x = explanatory variable (feature)*
+   *α = intercept*
+   *β = slope*
+   *Intercept* merupakan titik pada sumbu y, dimana garis linear yang terbentuk menabrak suatu titik pada sumbu y. Nilai *Slope* akan berperngaruh pada tingkat kemiringan garis linear yang terbentuk, dimana nilai *slope* 0 akan menghasilkan garis horizontal.<br>
+   ![image](https://github.com/user-attachments/assets/c67d911b-3903-471c-a7d9-e06ffdd2e68a)<br>
+   Gambar di atas adalah cara untuk menampilkan nilai *intercept* dan *slope.*
+
+   ### 1.6.	Kalkulasi Nilai *Slope*
+   Formula mencari nilai *slope*
+   *β =  (cov(x,y))/(var(x))*
+   *cov = covariance*
+   *var = variamce*
+
+
+
+
+
+
+
+
 
 
 
