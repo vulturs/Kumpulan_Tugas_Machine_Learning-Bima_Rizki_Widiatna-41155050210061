@@ -1,5 +1,5 @@
-**Nama         : Bima Rizki Widiatna**enter
-**NPM		      : 41155050210061**enter
+**Nama         : Bima Rizki Widiatna** enter
+**NPM		      : 41155050210061** enter
 **Prodi/Kelas	: Teknik Informatika/A2**
 ---
 # TUGAS PERTEMUAN 1
