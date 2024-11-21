@@ -130,90 +130,71 @@ Mata Kuliah : Machine Learning
 
 ## 1.	Simple Linear Regression dengan Scikit-Learn
    ### 1.1.	Sample Dataset
-   ![image](https://github.com/user-attachments/assets/312ce101-8417-47b5-8161-cdcee608b005)
+   ![image](https://github.com/user-attachments/assets/312ce101-8417-47b5-8161-cdcee608b005)<br><br>
 
    ### 1.2.	Visualisasi Dataset
-   ![image](https://github.com/user-attachments/assets/90b2741a-eec4-4e5a-8bce-d9155a94d56f)
+   ![image](https://github.com/user-attachments/assets/90b2741a-eec4-4e5a-8bce-d9155a94d56f)<br><br>
 
    ### 1.3.	Transformasi Dataset
    ![image](https://github.com/user-attachments/assets/fec06c81-f062-4e04-91e8-f3aec6a3941c)
-   ![image](https://github.com/user-attachments/assets/d02f2902-6c6a-458e-bb43-cec8e325876b)
+   ![image](https://github.com/user-attachments/assets/d02f2902-6c6a-458e-bb43-cec8e325876b)<br><br>
 
    ### 1.4.	Training Simple Linear Regression Model
-   ![image](https://github.com/user-attachments/assets/f0d3d3aa-2daf-409d-8dfc-d617686012fc)
+   ![image](https://github.com/user-attachments/assets/f0d3d3aa-2daf-409d-8dfc-d617686012fc)<br><br>
 
    ### 1.5.	Visualisasi Simple Linear Regression Model
-   ![image](https://github.com/user-attachments/assets/22b2cfed-8087-4d8d-be3b-3cebf1618a82)
-   Formula Linear Regression :
-   *y=α+ βx*
-   *y = response variable (target)*
-   *x = explanatory variable (feature)*
-   *α = intercept*
-   *β = slope*
+   ![image](https://github.com/user-attachments/assets/22b2cfed-8087-4d8d-be3b-3cebf1618a82)<br><br>
+   **Formula Linear Regression :**<br>
+   *y=α+ βx*<br>
+   *y = response variable (target)*<br>
+   *x = explanatory variable (feature)*<br>
+   *α = intercept*<br>
+   *β = slope*<br>
    *Intercept* merupakan titik pada sumbu y, dimana garis linear yang terbentuk menabrak suatu titik pada sumbu y. Nilai *Slope* akan berperngaruh pada tingkat kemiringan garis linear yang terbentuk, dimana nilai *slope* 0 akan menghasilkan garis horizontal.<br>
    ![image](https://github.com/user-attachments/assets/c67d911b-3903-471c-a7d9-e06ffdd2e68a)<br>
-   Gambar di atas adalah cara untuk menampilkan nilai *intercept* dan *slope.*
+   Gambar di atas adalah cara untuk menampilkan nilai *intercept* dan *slope.*<br>
 
    ### 1.6.	Kalkulasi Nilai *Slope*
-   Formula mencari nilai *slope*
-   *β =  (cov(x,y))/(var(x))*
-   *cov = covariance*
-   *var = variamce*
+   Formula mencari nilai *slope*<br>
+   *β =  (cov(x,y))/(var(x))*<br>
+   *cov = covariance*<br>
+   *var = variance*<br><br>
+   ![image](https://github.com/user-attachments/assets/763c1c6e-8cb3-41cf-afb6-44bbff28ad32)<br><br>
+   Pada gambar di atas array 2 dimensi di ubah ke bentuk asalnya menjadi array 1 dimensi dengan menggunakan *flatten.*<br>
 
+   #### 1.6.1.	Variance
+   ![image](https://github.com/user-attachments/assets/2fac6a53-9898-44f1-b0b8-d4282d575d91)<br><br>
 
+   #### 1.6.2.	Covariance
+   ![image](https://github.com/user-attachments/assets/44583b00-d782-4876-9982-e4822d261b81)<br>
+   `np.cov` digunakan untuk menampilkan matriks *covariance*. Nilai yang akan di ambil adalah diagonal dari matriksnya, yaitu nilai 22,65 pada gambar diatas. Gambar berikut adalah nilai dari *covariance*-nya.<br>
+   ![image](https://github.com/user-attachments/assets/b066da39-4485-4554-ae5e-efe45cd2b4b7)<br><br>
 
+   #### 1.6.3.	Slope
+   Berikut nilai *slope* dari hasil perhitungan nilai *covariance* dibagi nilai variance yang sebelumnya telah dihitung.<br>
+   ![image](https://github.com/user-attachments/assets/553c5ccd-551e-4ddb-9ff5-f884ef7597b3)<br><br>
 
+   ### 1.7.	Kalkulasi Nilai Intercept
+   Formula mencari nilai *intercept*<br>
+   __*α= ¯y- β¯x*__<br>
+   *¯y = nilai rata rata target*<br>
+   *β = nilai slope*<br>
+   *¯x = nilai rata rata x atau feature*<br>
+   ![image](https://github.com/user-attachments/assets/caeff011-7932-4881-99de-cabd4661cdda)<br><br>
 
+   ### 1.8.	Prediksi Harga Pizza Dengan Simple Linear Regression Model
+   ![image](https://github.com/user-attachments/assets/79b115a7-ff60-4dfa-b438-9dde1b0ac6b4)
 
+   ### 1.9.	Evaluasi Model Dengan Coefficient Of Determination | R Squared
+   ![image](https://github.com/user-attachments/assets/411bed5e-ca63-44ac-9538-a8dd61a29eaa)
+   ![image](https://github.com/user-attachments/assets/d10af8e2-eb84-4869-95dd-f1564c810e71)<br>
+   Semakin nilai *R-squared* mendekati 1 semakin baik, semakin menjauhi 1 atau mendekati 0 semakin buruk. Jika model yang dimiliki memiliki kualitas yang buruk sekali, nilai *R-squared* akan berisi nilai negatif.<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   ### 1.10.	Kalkulasi Nilai R Squared | Coefficient Of Determination
+   Rumus mencari *R-squared:*<br>
+   ![image](https://github.com/user-attachments/assets/fe40e0cf-0fca-4e1d-9991-706eddc2bdea)<br>
+   *〖SS〗_res = Sum Squared Residual*<br>
+   *〖SS〗_tot= ∑_(i=1)^n▒〖(y_i-y ̅)〗^2 *<br>
 
 
 
