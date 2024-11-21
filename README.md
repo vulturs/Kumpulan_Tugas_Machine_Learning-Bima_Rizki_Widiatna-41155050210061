@@ -145,7 +145,7 @@ Mata Kuliah : Machine Learning
    ### 1.5.	Visualisasi Simple Linear Regression Model
    ![image](https://github.com/user-attachments/assets/22b2cfed-8087-4d8d-be3b-3cebf1618a82)<br><br>
    **Formula Linear Regression :**<br>
-   *y=α+ βx*<br>
+   *y = α + βx*<br>
    *y = response variable (target)*<br>
    *x = explanatory variable (feature)*<br>
    *α = intercept*<br>
@@ -176,14 +176,14 @@ Mata Kuliah : Machine Learning
 
    ### 1.7.	Kalkulasi Nilai Intercept
    Formula mencari nilai *intercept*<br>
-   __*α= ¯y- β¯x*__<br>
+   __*α = ¯y- β¯x*__<br>
    *¯y = nilai rata rata target*<br>
    *β = nilai slope*<br>
    *¯x = nilai rata rata x atau feature*<br>
    ![image](https://github.com/user-attachments/assets/caeff011-7932-4881-99de-cabd4661cdda)<br><br>
 
    ### 1.8.	Prediksi Harga Pizza Dengan Simple Linear Regression Model
-   ![image](https://github.com/user-attachments/assets/79b115a7-ff60-4dfa-b438-9dde1b0ac6b4)
+   ![image](https://github.com/user-attachments/assets/79b115a7-ff60-4dfa-b438-9dde1b0ac6b4)<br><br>
 
    ### 1.9.	Evaluasi Model Dengan Coefficient Of Determination | R Squared
    ![image](https://github.com/user-attachments/assets/411bed5e-ca63-44ac-9538-a8dd61a29eaa)
@@ -193,9 +193,15 @@ Mata Kuliah : Machine Learning
    ### 1.10.	Kalkulasi Nilai R Squared | Coefficient Of Determination
    Rumus mencari *R-squared:*<br>
    ![image](https://github.com/user-attachments/assets/fe40e0cf-0fca-4e1d-9991-706eddc2bdea)<br>
-   *〖SS〗_res = Sum Squared Residual*<br>
-   *〖SS〗_tot= ∑_(i=1)^n▒〖(y_i-y ̅)〗^2 *<br>
+   ![image](https://github.com/user-attachments/assets/c052ef98-6259-4494-9fea-fc27304d09fa)<br>
+   ![image](https://github.com/user-attachments/assets/44446cdf-b7e4-4805-a0c9-6789d04df259)<br>
+   ![image](https://github.com/user-attachments/assets/9146d461-9446-4170-9deb-4927ab728d8f)<br>
+   Berikut adalah perhitungan nilai *R^2*<br>
+   ![image](https://github.com/user-attachments/assets/cc514993-3251-4504-8a8f-8f77fc9ed292)<br><br>
+
+   
 
 
 
+   
 
