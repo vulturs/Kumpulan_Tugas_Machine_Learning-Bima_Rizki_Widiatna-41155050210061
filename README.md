@@ -1,6 +1,7 @@
-Nama         : Bima Rizki Widiatna<br>
-NPM		      : 41155050210061<br>
+Nama        : Bima Rizki Widiatna<br>
+NPM		   : 41155050210061<br>
 Prodi/Kelas	: Teknik Informatika/A2
+Mata Kuliah : Machine Learning
 ---
 # TUGAS PERTEMUAN 1
 
@@ -123,7 +124,7 @@ Prodi/Kelas	: Teknik Informatika/A2
    ![image](https://github.com/user-attachments/assets/6fe92fc8-1f73-42d6-bd65-ca11297aa439)<br><br>
    ![image](https://github.com/user-attachments/assets/df0e81b8-6dd1-4950-be45-c5e9eb1e8b1b)<br><br>
 
-<br><br><br>
+<br><br>
 
 # TUGAS PERTEMUAN 2
 
