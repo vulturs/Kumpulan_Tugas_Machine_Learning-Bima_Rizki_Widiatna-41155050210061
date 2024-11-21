@@ -126,6 +126,8 @@ Mata Kuliah : Machine Learning
 
 <br><br>
 
+
+---
 # TUGAS PERTEMUAN 2
 
 ## 1.	Simple Linear Regression dengan Scikit-Learn
