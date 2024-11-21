@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f4dcf7d7-e2d2-4ef0-adde-7a212c10ffc8)Nama        : Bima Rizki Widiatna<br>
+![image](https://github.com/user-attachments/assets/761f2e59-c262-4aaa-8d62-d38af5e0cc3e)![image](https://github.com/user-attachments/assets/f4dcf7d7-e2d2-4ef0-adde-7a212c10ffc8)Nama        : Bima Rizki Widiatna<br>
 NPM		   : 41155050210061<br>
 Prodi/Kelas	: Teknik Informatika/A2
 Mata Kuliah : Machine Learning
@@ -235,13 +235,13 @@ Mata Kuliah : Machine Learning
 
 ## 3.	Logistic Regression pada Binary Classification Task
    ### 3.1.	Formula Dasar Pembentuk Logistic Regression | Fungsi Sigmoid
-   __*Formula Simple Linear Regression:*__<br>
+   __Formula *Simple Linear Regression:*__<br>
    ![image](https://github.com/user-attachments/assets/bf80db60-11bc-477a-8407-cfc5b28dedb3)<br><br>
 
-   Formula *Multiple Linear Regression*
+   __Formula *Multiple Linear Regression*__<br>
    ![image](https://github.com/user-attachments/assets/78ed93f0-6d5d-4c90-a45e-c3c9624484eb)<br><br>
 
-   Formula *Logistic Regression*<br>
+   __Formula *Logistic Regression*__<br>
    ![image](https://github.com/user-attachments/assets/fdef8e4b-beec-47eb-934f-6a38e408a1c7)<br><br>
 
    ![image](https://github.com/user-attachments/assets/9a9a2a60-a687-42ae-9b06-5ad6cf047534)<br><br>
@@ -255,14 +255,14 @@ Mata Kuliah : Machine Learning
    ![image](https://github.com/user-attachments/assets/1b3ef0ca-90b5-4694-ad01-902f800633ee)
 
    ### 3.4.	Feature Extraction Dengan TF-IDF
-   ![image](https://github.com/user-attachments/assets/1df86e38-d6f5-41b0-80b2-7ada432be327)
-   ![image](https://github.com/user-attachments/assets/e0e058ba-ea28-4e0d-938b-49e27ee2c75b)
+   ![image](https://github.com/user-attachments/assets/1df86e38-d6f5-41b0-80b2-7ada432be327)<br><br>
+   ![image](https://github.com/user-attachments/assets/e0e058ba-ea28-4e0d-938b-49e27ee2c75b)<br><br>
 
    ### 3.5.	Binary Classification Dengan Logistic Regression
-   ![image](https://github.com/user-attachments/assets/774e6cd2-48c6-4ef5-a1c2-368d22813da3)
+   ![image](https://github.com/user-attachments/assets/774e6cd2-48c6-4ef5-a1c2-368d22813da3)<br><br>
 
    ### 3.6.	Evaluation Metrics Pada Binary Classification Task
-   Terminologi atau istilah dasar:
+   Terminologi atau istilah dasar:<br>
    * *True Positive (TP)*
    * *True Negative (TN)*
    * *False Positive (FP)*
@@ -296,17 +296,92 @@ Mata Kuliah : Machine Learning
    ![image](https://github.com/user-attachments/assets/14e2e955-4fa5-40c9-a30a-e9b06797fcb2)<br><br><br>
 
 
+
+# TUGAS PERTEMUAN 3
+
+## 1.	Decision Tree Classification
+   ### 1.1.	Pengenalan Komponen Decision Tree: Root, Node, Leaf
+   ![image](https://github.com/user-attachments/assets/6e0418b4-bc52-425f-b4ae-b77740c3e671)
+
+   ### 1.2.	Pengenalan Gini Impurity
+   ![image](https://github.com/user-attachments/assets/42affe10-7257-49b6-82e4-b62e1d66d1c6)<br>
+   *Gini Impurity* memiliki jangkauan nilai antara 0 dan 1, dimana nilai 0 mengindikasikan nilai murni yang sempurna, sedangkan nilai 1 merupakan nilai paling impure atau paling tidak murni. Pada gambar di atas terdapat 10 data poin yang terbagi dalam 2 class, class biru dan class hijau.<br><br>
+
+   __Pengukuran *impurity* pada kedua ruas__<br>
+   Ruas Kiri:<br>
+   ![image](https://github.com/user-attachments/assets/f4170a44-f83e-4119-93f6-4384ff831561)<br>
+   Ruas Kanan:<br>
+   ![image](https://github.com/user-attachments/assets/e55b0a01-73cf-438b-a1b9-104a4e0760df)<br><br>
+
+   __Nilai rata-rata Gini *Impurity*__<br>
+   ![image](https://github.com/user-attachments/assets/ac2e46b0-dd43-471e-83b9-8705633f3be6)
+
+   ### 1.3.	Pengenalan Information Gain
+   ![image](https://github.com/user-attachments/assets/ed5d9f80-13d2-47ea-a838-454a5b5b6920)
+
+   ### 1.4.	Membangun Decision Tree
+   ![image](https://github.com/user-attachments/assets/97d75558-518d-4a25-bbf3-918a2547ecf2)
+   Pada dataset di atas kolom *Color* dan Diameter adalah *feature*, dan kolom Label adalah *target*.<br>
+   Berikut pencarian nilai *Gini Impurity* dari sekumpulan data sebelum dilakukan *splitting*:<br>
+   ![image](https://github.com/user-attachments/assets/c550b266-382f-42b6-8f9e-56520d6a4bd9)
+
+   ### 1.5.	Persiapan Dataset: Iris Dataset
+   ![image](https://github.com/user-attachments/assets/c4465153-20bb-4ebd-aa80-0125f733e41b)
+   ![image](https://github.com/user-attachments/assets/4ed6405f-86fc-4837-9098-11369afdd5c4)
+
+   ### 1.6.	Training Model Decision Tree Classifier
+   ![image](https://github.com/user-attachments/assets/0fc7206c-d8dc-49ed-97d5-76c92156459c)
+
+   ### 1.7.	Visualisasi Model Decision Tree
+   ![image](https://github.com/user-attachments/assets/9be268ed-a074-4d47-8a9d-b6102df23029)
+
+   ### 1.8.	Evaluasi Model Decision Tree
+   ![image](https://github.com/user-attachments/assets/0e0de60f-a5a7-4850-b833-280a94819377)
+
+## 2.	Random Forest Classification
+   ### 2.1.	Proses Training Model Machine Learning Secara Umum
+   __*General Workflow ML Model Training*__<br>
+   ![image](https://github.com/user-attachments/assets/966e385e-ff17-4610-8c40-e5a6a6ea1bd3)
+
+   ### 2.2.	Pengenalan Ensemble Learning
+   ![image](https://github.com/user-attachments/assets/5f8cf785-8da8-48af-8087-d44b6bcf8741)
+
+   ### 2.3.	Pengenalan *Bootstrap Aggregating | Bagging*
+   ![image](https://github.com/user-attachments/assets/a0ac3697-3a0f-4839-a9bf-ddc05508ce37)<br>
+   Dari 3 buah trained model pada gambar di atas akan menghasilkan prediksi yang berbeda-beda dari tiap trained modelnya. Maka dari itu dari ketiga prediksi tersebut perlu disatukan agar menghasilkan satu prediksi final.<br><br>
+
+   ### 2.4.	Pengenalan Random Forest | Hutan Acak
+   ![image](https://github.com/user-attachments/assets/c0a90bf6-fe5c-4131-bf07-5cad4981ad7a)<br>
+   *Random Forest* merupakan implementasi dari *Homogenous Ensemble Learning* yang menerapkan *Decision Tree.*<br><br>
+
+   ### 2.5.	Persiapan Dataset | Iris Flower Dataset
+   ![image](https://github.com/user-attachments/assets/07656d90-4918-44f0-9b31-2fdd2a82bc51)<br><br>
+   ![image](https://github.com/user-attachments/assets/c9c99a6e-b434-4152-a860-156569aa166a)<br><br>
+   
+   ### 2.6.	Implementasi Random Forest Classifier Dengan Scikit Learn
+   ![image](https://github.com/user-attachments/assets/0ff4b211-e805-4bd8-a6db-a0ef3ef65349)<br><br>
+
+   2.7.	Evaluasi Model  Dengan Classification Report
+   ![image](https://github.com/user-attachments/assets/263fee5a-c642-499f-bd9e-6990cdebc62e)<br><br><br>
+
+
+
+# TUGAS PERTEMUAN 4
+
+
+
+
+
+
+
+
+
+
+
+
    
 
 
 
 
-
-
-
-
-
-
-
-
-
+   
