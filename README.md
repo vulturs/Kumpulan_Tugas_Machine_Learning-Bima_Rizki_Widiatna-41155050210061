@@ -1,8 +1,9 @@
 Nama        : Bima Rizki Widiatna<br>
 NPM		   : 41155050210061<br>
 Prodi/Kelas	: Teknik Informatika/A2<br>
-Mata Kuliah : Machine Learning<br><br>
+Mata Kuliah : Machine Learning<br>
 > Kumpulan Tugas Pertemuan 1 s/d Pertemuan 5
+<br>
 ---
 # TUGAS PERTEMUAN 1
 
